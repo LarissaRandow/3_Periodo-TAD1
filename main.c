@@ -43,7 +43,7 @@ float computaDist(Ponto A, Ponto B){
     return dist;
 }
 
-float calculaPerimetroQuadrilatero(Ponto *vetPto, int n)
+float calculaPerimetroQuadrilatero(Ponto *vet, int n)
 {
     float perimetro;
     perimetro = computaDist(vet[0],vet[1]) + computaDist(vet[1],vet[2]) + computaDist(vet[2],vet[3]) + computaDist(vet[3],vet[0]);
