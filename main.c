@@ -59,7 +59,7 @@ int main()
     vet = (Ponto*)malloc(4 * sizeof(Ponto));
     if(vet == NULL)
     {
-        printf("Deu ruim");
+        printf("Memoria insuficiente");
         exit(1);
     }
 
