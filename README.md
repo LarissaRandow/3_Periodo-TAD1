@@ -1,2 +1,2 @@
 # 3_Periodo-TAD1
-Receber um vetor com 4 Pontos, computa o perímetro e retorna este valor.
+Receber um vetor com 4 Pontos, computar o perímetro e retornar este valor.
